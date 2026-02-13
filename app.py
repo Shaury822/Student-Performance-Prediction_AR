@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ebcSgkLEmChnJdDomvSFdmJIMRqr2y9Z
 """
 
-!pip install pandas numpy scikit-learn imbalanced-learn matplotlib openpyxl streamlit
 
 import pandas as pd
 import numpy as np
